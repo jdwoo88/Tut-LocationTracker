@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Running Tracker</string>
+    <!-- https://developers.google.com/maps/documentation/android-sdk/get-api-key -->
+    <string name="google_maps_key">AIzaSyA2g9zT_sGJBD8GG24g8pN1f89CdtADy2I</string>
 </resources>
